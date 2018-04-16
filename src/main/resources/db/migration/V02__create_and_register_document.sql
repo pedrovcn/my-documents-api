@@ -9,7 +9,3 @@ CREATE TABLE document (
 INSERT INTO document (name, user_id) VALUES ("RG", 1);
 INSERT INTO document (name, user_id) VALUES ("CNH", 1);
 INSERT INTO document (name, user_id) VALUES ("Certidão de nascimento", 1);
-
-INSERT INTO document (name, user_id) VALUES ("RG", 2);
-INSERT INTO document (name, user_id) VALUES ("CNH", 2);
-INSERT INTO document (name, user_id) VALUES ("Certidão de nascimento", 2);
